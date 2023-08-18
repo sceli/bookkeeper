@@ -1,6 +1,6 @@
 # Bookkeeper
 
-An accounting program that works with an SQL database.
+An accounting program that works with PostgreSQL database.
 
 
 The program has:
@@ -8,11 +8,14 @@ The program has:
 - invoicing module - issuing sales invoices, as well as corrections
 - purchasing module - entering purchase invoices and corrections
 - settlement module - settlement of bank statements and cash registers, module for monitoring settlements with customers
-- accounting module - issuing vouchers, accounting reports, balance sheet, journal, reports can be exported to CSV or XLS, opening balance.
-- the ability to run several companies.
+- accounting module - issuing vouchers, accounting reports, balance sheet, journal, reports can be exported to CSV or XLS, opening balance
+- the ability to run several companies
 
 
 To run copy all files and run main.py. At the beginning, after starting, you need to configure the connection to the SQL database in the settings tab.
+
+
+The program itself creates a database in PostgreSQL and all the necessary tables.
 
 
 ## Customer receivables and liabilities
@@ -66,5 +69,5 @@ To run copy all files and run main.py. At the beginning, after starting, you nee
 
 
 ## Settings
-Set SQL connection
+Set PostgreSQL connection
 ![My Image](screens/settings.png)
