@@ -15,55 +15,56 @@ The program has:
 To run copy all files and run main.py. At the beginning, after starting, you need to configure the connection to the SQL database in the settings tab.
 
 
-Customer receivables and liabilities
+## Customer receivables and liabilities
 ![My Image](screens/customer_receivables_and_liabilities.png)
 
 
-Sales invoice
+## Sales invoice
 ![My Image](screens/sales_invoice.png)
 
 ![My Image](screens/sales_invoice_pdf_view.png)
 
 
-Correcting sales invoice
+## Correcting sales invoice
 ![My Image](screens/correcting_sales_invoice.png)
 
 ![My Image](screens/correcting_sales_invoice_pdf_view.png)
 
 
-Invoice indexes
+## Invoice indexes
 ![My Image](screens/invoice_indexes.png)
 
 
-Customers
+## Customers
 ![My Image](screens/customers.png)
 
 
-Bank
+## Bank
 ![My Image](screens/bank.png)
 
 ![My Image](screens/bank_show_settlements.png)
 
 
-Customer settlement
+## Customer settlement
 ![My Image](screens/customer_settlement.png)
 
 
-Voucher
+## Voucher
 ![My Image](screens/voucher.png)
 
 
-Chart of accounts
+## Chart of accounts
 ![My Image](screens/chart_of_accounts.png)
 
 
-Trial balance
+## Trial balance
 ![My Image](screens/trial_balance.png)
 
 
-Journal
+## Journal
 ![My Image](screens/journal.png)
 
 
-Settings
+## Settings
+Set SQL connection
 ![My Image](screens/settings.png)
