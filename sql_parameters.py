@@ -2,7 +2,7 @@ import json
 import tkinter
 from tkinter import messagebox
 import os
-sql_parameters.py
+
 
 def read_config():
     """Open and read config file"""
